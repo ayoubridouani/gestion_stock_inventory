@@ -40,7 +40,9 @@ simple application of javafx + fxml + mysql to gives you the ability to add cust
 
 #### References:
 https://github.com/sadatrafsanjani/JavaFX-Point-of-Sales
+
 https://www.callicoder.com/javafx-css-tutorial/
+
 https://harmash.com/javafx/javafx-overview/
 
 to contact me: ridouaniayoub@gmail.com
